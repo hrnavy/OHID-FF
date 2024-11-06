@@ -1,0 +1,6 @@
+path: /home/storage/Dataset/jpgsmoke/trainimage/YOLODataset
+train: /home/storage/Dataset/jpgsmoke/trainimage/YOLODataset/images/train/
+val: /home/storage/Dataset/jpgsmoke/trainimage/YOLODataset/images/val/
+test: /home/storage/Dataset/jpgsmoke/trainimage/YOLODataset/images/test/
+nc: 1
+names: ['smoke']
