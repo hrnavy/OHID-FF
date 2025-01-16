@@ -1,5 +1,5 @@
-# OHID-forest-fires
-The original image files in the OHID-forest-fires dataset were collected from OHS. The original data images are of size 5056 * 5056, totaling 22 images, located in the tif/fire folder.
+# OHID-FF
+The original image files in the OHID-FF dataset were collected from OHS. The original data images are of size 5056 * 5056, totaling 22 images, located in the tif/fire folder.
 
 The "YOLODataset" folder contains the following:
 
